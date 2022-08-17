@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "679028106838",
+    "project_id": "img-upload-study",
+    "storage_bucket": "img-upload-study.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679028106838:android:25d78c5a87d6be923cfdf7",
+        "android_client_info": {
+          "package_name": "com.example.android_firebase_storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679028106838-0av2amnn5se2cckvd7lbfeabrc2nps6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbfW88mu6cG3WokEmAMSGtcZJGfzA6NrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679028106838-0av2amnn5se2cckvd7lbfeabrc2nps6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
